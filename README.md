@@ -2,7 +2,6 @@
 A Cool Website (desktop & mobile) to demonstrate the Splunk SignalFx real-time monitoring.
 Add to your cart as many as items your want, and check out!
 
-![Main Screen](https://github.com/ecointet/shop-demo/blob/master/src/img/github-overview.png?raw=true)
 
 ## Features
 
